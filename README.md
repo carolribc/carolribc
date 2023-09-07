@@ -2,15 +2,49 @@
 <h3 align="center">Apaixonada por ciência e análise de dados no mundo digital.</h3>
 
 - 👩‍🎓 Formada em Ciência da Computação e pós-graduada Business Intelligence, Big Data e Analytics. Atualmente, atuando como analista de dados em uma grande organização.
- [https://www.linkedin.com/in/caroline-ribeiro-8260b51b2/](https://www.linkedin.com/in/caroline-ribeiro-8260b51b2/)
 
-- 📚 Atualmente eu estou aprendendo **Python e R**.
+- 📚 No momento eu estou aprendendo **Python e Machine Learning**.
 
 - 💬 Me pergunte sobre **SQL, Python e Plataforma Power, como Power BI e Power Apps**.
 
-- 📫 Você me encontra através do e-mail **carolribeiro822@gmail.com**
-
 - 👩‍💻 Estou sempre aberta a me conectar com colegas, compartilhar ideias e aprender com outras mentes brilhantes. Se você também é apaixonado por dados, tecnologia e busca pelo conhecimento, adoraria trocar experiências e insights. 
+
+ &nbsp;
+ &nbsp;
+
+
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=carolribc&theme=dark&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=carolribc&show_icons=true&theme=dracula&layout=compact" />
+</div>
+ 
+ &nbsp;
+
+
+## Contatos:
+
+<div> 
+<a href="https://www.linkedin.com/in/caroline-ribeiro-8260b51b2/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<a href = "mailto:contato.carolribeiro822@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/carolineribc?igshid=OGQ5ZDc2ODk2ZA==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+</div>&nbsp;&nbsp;
+ 
+
+  
+  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+
+
+
+
+
+
+
+
+
+
+<!--
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,9 +60,6 @@
 
 
 
-
-
-<!--
 **carolribc/carolribc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
