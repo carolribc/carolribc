@@ -3,7 +3,7 @@
 
 - 👩‍🎓 Formada em Ciência da Computação e pós-graduada Business Intelligence, Big Data e Analytics. Atualmente, atuando como analista de dados em uma grande organização.
 
-- 📚 No momento eu estou aprendendo **Python e Machine Learning**.
+- 📚 No momento, eu estou aprendendo **Python e Machine Learning**.
 
 - 💬 Me pergunte sobre **SQL, Python e Plataforma Power, como Power BI e Power Apps**.
 
@@ -20,7 +20,6 @@
  
  &nbsp;
 
-
 ## Contatos:
 
 <div> 
@@ -32,7 +31,7 @@
  
 
   
-  
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
 
 
